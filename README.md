@@ -3,6 +3,8 @@ UNIVERSIDAD DE CARTAGENA
 
 INGENIERIA DE SOFTWARE A DISTANCIA
 
+ALGORITMOS Y PROGRAMACION BASICA
+
 2. Desarrolle el algoritmo de la empresa XYZ, que permita calcular
 la nómina semanal de 5 obreros, con la siguiente
 características:
